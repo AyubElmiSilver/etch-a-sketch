@@ -1,1 +1,5 @@
 # etch-a-sketch
+
+This project will focus on building a browser version of something between a sketchpad and an Etch-A-Sketch. The project will consolidate key knowledge of Javascript, Document Object Model, Flexbox, HTML and CSS. The project will be composed of multiple steps listed down below.
+
+The first section will be creating a webpage with a 16x16 grid of square divs.

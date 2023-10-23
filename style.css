@@ -13,3 +13,7 @@
     background-color: red;
 }
 
+#box:hover {
+    background-color: blue;
+}
+
